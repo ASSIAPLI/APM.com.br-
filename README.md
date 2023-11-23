@@ -16,3 +16,5 @@ m.app.vc/pramed-ASSIAPLI#/home com a App.vc/pramed-ASSIAPLI#/home
 Como de início ser avaliado todos os Insights 
 Adiqueridos ao longos dos anos na facebook.com e no 
 Google.com entre outras redes sociais. 
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-Strict.dtd">
